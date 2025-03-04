@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FlashCardsApplication</string>
+    <string name="good">Good</string>
+    <string name="badButtonText">Bad</string>
+    <string name="AddCardFieldFront">Front</string>
+    <string name="AddCardFieldBack">Back</string>
+    <string name="AddCardButtonAddCard">Add card</string>
+    <string name="AddCardAddImage">Add Image</string>
+    <string name="AddDeckName">Name</string>
+    <string name="AddDeckDescription">Description</string>
+    <string name="AddDeckAddDeck">Add Deck</string>
+
+    <string name="RecentDecksFlashcards">Flashcards</string>
+    <string name="RecentDecksScreenTest">Test</string>
+    <string name="EditDeckEditDeck">Edit deck</string>
+    <string name="EditDeckName">Name</string>
+    <string name="EditDeckDescription">Description</string>
+    <string name="EditDeckSave">Save</string>
+    <string name="RecentDecksAmountOfCards">Amount of cards ....</string>
+    <string name="RecentDecksAproxTime">Approx. time to complete .....</string>
+    <string name="SearchDeckScreenFind">Find</string>
+    <string name="TestFillGapAnswer">Answer</string>
+    <string name="TestFillGapCheckAnswer">Check answer</string>
+    <string name="TestNext">Next</string>
+    <string name="TestComplete">You are have completed all your cards for today</string>
+    <string name="TestReload">Reload</string>
+    <string name="TestReviseUncompCards">Revise uncomp. cards</string>
+    <string name="TestReloadAllCards">Reload all cards</string>
+    <string name="DeckCardDelete">Delete</string>
+    <string name="DeckCardAddCard">Add Card</string>
+    <string name="AddCardChangeDeck">Change deck</string>
+    <string name="BarGraphNoCards">You dont have any decks</string>
+    <string name="DeckCardsCards">cards</string>
+    <string name="DeckCardRemaining">remaining</string>
+    <string name="DecksToggleAll">All</string>
+    <string name="DeckToggleRecent">Recent</string>
+    <string name="GraphDecksWithMost">Decks with the most cards</string>
+    <string name="deckAdded">Deck Added</string>
+    <string name="cardAdded">Card Added</string>
+    <string name="findDeck">Find deck</string>
+    <string name="addDeck">Add Deck</string>
+</resources>

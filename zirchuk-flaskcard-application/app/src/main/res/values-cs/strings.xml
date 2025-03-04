@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlashCardsApplication</string>
+    <string name="good">Dobře</string>
+    <string name="badButtonText">Špatně</string>
+    <string name="AddCardFieldFront">Přední strana</string>
+    <string name="AddCardFieldBack">Zpětná strana</string>
+    <string name="AddCardButtonAddCard"> Přidat kartu</string>
+    <string name="AddCardAddImage">Přidat obrázek</string>
+    <string name="AddDeckName">Název</string>
+    <string name="AddDeckDescription">Popis</string>
+    <string name="AddDeckAddDeck">Přidat balíček</string>
+
+    <string name="RecentDecksFlashcards">Flashkarty</string>
+    <string name="RecentDecksScreenTest">Test</string>
+    <string name="EditDeckEditDeck">Upravit balíček</string>
+    <string name="EditDeckName">Název</string>
+    <string name="EditDeckDescription">Popis</string>
+    <string name="EditDeckSave">Uložit</string>
+    <string name="RecentDecksAmountOfCards">Množství karet ....</string>
+    <string name="RecentDecksAproxTime">Přibližná doba dokončení .....</string>
+    <string name="SearchDeckScreenFind">Najít</string>
+    <string name="TestFillGapAnswer">Odpověď</string>
+    <string name="TestFillGapCheckAnswer">Zkontrolovat odpověď</string>
+    <string name="TestNext">Další</string>
+    <string name="TestComplete">Pro dnešek jste dokončili všechny karty</string>
+    <string name="TestReload">Znovu načíst</string>
+    <string name="TestReviseUncompCards">Revize nezpracovaných karet</string>
+    <string name="TestReloadAllCards">Znovu načíst všechny karty</string>
+    <string name="DeckCardDelete">Smazat</string>
+    <string name="DeckCardAddCard">Přidat kartu</string>
+    <string name="AddCardChangeDeck">Změna balíčku</string>
+    <string name="BarGraphNoCards">Nemáte žádné Balíčky</string>
+    <string name="DeckCardsCards">karty</string>
+    <string name="DecksToggleAll">Všechny</string>
+    <string name="DeckCardRemaining">zbýva</string>
+    <string name="DeckToggleRecent">Nedávné</string>
+    <string name="GraphDecksWithMost">Balíčky s nejvyšším počtem karet</string>
+    <string name="deckAdded">Balíček byl úspěšně přidán</string>
+    <string name="cardAdded">Karta byla úspěšně přidána</string>
+    <string name="findDeck">Najít Balíček</string>
+    <string name="addDeck">Přidat Balíček</string>
+</resources>
